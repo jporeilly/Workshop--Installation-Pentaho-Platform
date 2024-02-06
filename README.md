@@ -1,0 +1,2 @@
+# Workshop--Installation-Pentaho-Platform
+ 
